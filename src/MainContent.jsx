@@ -4,7 +4,6 @@ export default class MainContent extends Component{
     state = {  };
     render() {
         return(
-            
             <div class="container py-5 text-right text-dark">
                 <div class="row p-5">
                 <div class="col-lg-6 col-md-12 my-auto">
@@ -18,7 +17,6 @@ export default class MainContent extends Component{
                 </div>
                 </div>
             </div>
-        
         );
     }
 }
